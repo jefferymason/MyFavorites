@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">My Favorites</string>
     <string name="color">COLOR</string>
+    <string name="food">FOOD</string>
+    <string name="tvShow">TV SHOW</string>
+    <string name="artist">ARTIST</string>
+    <string name="dayOfTheWeek">DAY OF THE WEEK</string>
+    <string name="season">SEASON</string>
 </resources>
